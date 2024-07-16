@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://https://github.com/HenryHong91/Demo",
+  "homepage": "https://henryhong91.github.io/Demo/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
