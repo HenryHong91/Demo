@@ -19,15 +19,12 @@ const useDataApi = (queryKey, apiEndPoint) => {
       if (selectedLocation !== "All") {
         url += `?LocationId=${selectedLocation}`;
       }
-      console.log("---------------------------------------");
-      console.log(`Fetching data  FROM  ${selectedLocation}`);
-      console.log("---------------------------------------");
 
       //const response = await fetch(url); // Mock API fetch call using  API
 
       //-------------for using mock data files--------------
       const mockData = mockDataFiles[apiEndPoint];
-      console.log(mockData);
+
       const response =
         selectedLocation === "All"
           ? mockData

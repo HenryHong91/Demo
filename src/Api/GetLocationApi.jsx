@@ -15,7 +15,7 @@ const useLocationApi = (queryKey, apiEndPoint) => {
     queryFn: async () => {
       // mock 데이터 사용
       const mockData = mockDataFiles[apiEndPoint];
-      console.log(mockData);
+
       if (!mockData) {
         throw new Error(`Failed to fetch ${apiEndPoint} data`);
       }
@@ -86,7 +86,6 @@ const useLocationApi = (queryKey, apiEndPoint) => {
     if (rawData) {
       const groupedData = groupLocations(rawData);
       setLocation(groupedData);
-      console.log(location);
     }
   }, [rawData, setLocation]);
 
