@@ -1,0 +1,16 @@
+#item:hover {
+  background-color: grey;
+  transition: background-color 0.5s;
+}
+
+.sidebar-open {
+  @apply w-64;
+  @apply max-sm:w-2/4;
+  transition: width 0.5s;
+}
+.sidebar-close {
+  @apply w-0;
+  overflow: hidden;
+  transition: width 0.5s;
+  padding: 0;
+}

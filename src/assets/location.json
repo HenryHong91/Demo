@@ -1,0 +1,166 @@
+[
+  {
+    "Id": "ACE_BOX",
+    "Description": "ACERO BOXMAN"
+  },
+  {
+    "Id": "ACE_CHC",
+    "Description": "ACERO CHRISTCHURCH"
+  },
+  {
+    "Id": "ACE_DIR",
+    "Description": "ACERO DIRECT SHIP"
+  },
+  {
+    "Id": "ACE_OBR",
+    "Description": "**INACTIVE**ACERO OBRIENS STOCK (DO NOT USE)"
+  },
+  {
+    "Id": "ACE_QUA",
+    "Description": "ACERO QUARANTINE"
+  },
+  {
+    "Id": "ASL_CHC",
+    "Description": "ASL CHRISTCHURCH"
+  },
+  {
+    "Id": "ASL_CTL",
+    "Description": "ASL CENTRAL OTAGO"
+  },
+  {
+    "Id": "ASL_DUN",
+    "Description": "ASL DUNEDIN"
+  },
+  {
+    "Id": "ASL_NEL",
+    "Description": "ASL NELSON"
+  },
+  {
+    "Id": "ASL_SEC",
+    "Description": "ASL SECONDS AND RETURNS"
+  },
+  {
+    "Id": "ASL_TIM",
+    "Description": "ASL TIMARU"
+  },
+  {
+    "Id": "DTK_AKL",
+    "Description": "DEZIGNATEK AUCKLAND"
+  },
+  {
+    "Id": "DTK_HAM",
+    "Description": "DEZIGNATEK HAMILTON"
+  },
+  {
+    "Id": "IMP_AKL",
+    "Description": "IMPEYS AUCKLAND"
+  },
+  {
+    "Id": "IMP_CFR",
+    "Description": "**INACTIVE**IMPEYS CFR AKL (DO NOT USE)"
+  },
+  {
+    "Id": "IMP_HAM",
+    "Description": "IMPEYS HAMILTON"
+  },
+  {
+    "Id": "IMP_HAS",
+    "Description": "IMPEY HASTINGS"
+  },
+  {
+    "Id": "IMP_WEL",
+    "Description": "IMPEYS WELLINGTON"
+  },
+  {
+    "Id": "IN-TRANSIT",
+    "Description": "IN-TRANSIT"
+  },
+  {
+    "Id": "KOP_CHC",
+    "Description": "KOPINE CHRISTCHURCH"
+  },
+  {
+    "Id": "KOP_KOP",
+    "Description": "KOPINE KOPU"
+  },
+  {
+    "Id": "KOP_NEL",
+    "Description": "KOPINE NELSON"
+  },
+  {
+    "Id": "KOP_WEL",
+    "Description": "KOPINE WELLINGTON"
+  },
+  {
+    "Id": "PPL_AKL",
+    "Description": "PRIME PANELS AUCKLAND"
+  },
+  {
+    "Id": "PPL_ALA",
+    "Description": "PRIME ALADDINSCAVE"
+  },
+  {
+    "Id": "PPL_ALB",
+    "Description": "PRIME ALBANY"
+  },
+  {
+    "Id": "PPL_AMO",
+    "Description": "**INACTIVE**PRIME AMORINI PALMERSTON NORTH (DO NOT USE)"
+  },
+  {
+    "Id": "PPL_CHC",
+    "Description": "PRIME PANELS CHRISTCHURCH"
+  },
+  {
+    "Id": "PPL_COV",
+    "Description": "PRIME COVERIGHT"
+  },
+  {
+    "Id": "PPL_ECR",
+    "Description": "**INACTIVE**PRIME ECROTEK (DO NOT USE"
+  },
+  {
+    "Id": "PPL_EDG",
+    "Description": "PRIME PANELS EDGE TAPE"
+  },
+  {
+    "Id": "PPL_IKA",
+    "Description": "PRIME IKAMATUA"
+  },
+  {
+    "Id": "PPL_KOP",
+    "Description": "PRIME KOPINE STOCK"
+  },
+  {
+    "Id": "PPL_NEL",
+    "Description": "PRIME PANELS NELSON"
+  },
+  {
+    "Id": "PPL_QNI",
+    "Description": "PRIME NORTH ISLAND QUARANTINE"
+  },
+  {
+    "Id": "PPL_QSI",
+    "Description": "PRIME SOUTH ISLAND QUARANTINE"
+  },
+  {
+    "Id": "PPL_QUA",
+    "Description": "**INACTIVE**PRIME QUARANTINE (DO NOT USE)   "
+  },
+  {
+    "Id": "PPL_SIA",
+    "Description": "PRIME SIAM"
+  },
+  {
+    "Id": "PPL_VAS",
+    "Description": "PRIME VASATECH"
+  },
+  {
+    "Id": "ZDL_HUN",
+    "Description": "ZEALAND DISTRIBUTION"
+  },
+  {
+    "Id": "ZDL_SEC",
+    "Description": "ZEALAND SECONDS"
+  }
+]
