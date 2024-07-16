@@ -12,7 +12,7 @@ import SelectLocation from "../Pages/SelectLocation/SelectLocation";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Demo",
     element: <Login />,
   },
   {
