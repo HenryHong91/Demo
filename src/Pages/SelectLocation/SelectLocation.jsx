@@ -50,7 +50,11 @@ const SelectLocation = () => {
             }`}
           >
             please select location
+            <p className="text-red-500">
+              To view all data, set the location to "All".
+            </p>
           </p>
+
           {/* --------------------------------------------------------- */}
           <LocationSelection />
           {/* <Select
@@ -98,7 +102,7 @@ const SelectLocation = () => {
           </Select> */}
 
           <Link
-            to="/job_manager"
+            to="/job_manager/scheduling"
             className={`w-full rounded-2xl opacity-0 m-2 ${
               animate ? "animate-fadeIn6" : ""
             }`}
